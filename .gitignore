@@ -1,0 +1,32 @@
+# Archivos de autoguardado y copias de seguridad de MATLAB
+*.asv
+*.autosave
+*.bak
+*~
+
+# Archivos compilados MEX (para Windows, Mac y Linux)
+*.mexa64
+*.mexw64
+*.mexw32
+*.mexmaci64
+*.mexmaca64
+
+# Instaladores de aplicaciones de MATLAB
+*.mlappinstall
+
+# Archivos generados por Simulink (si usas Simulink)
+slprj/
+*.slxc
+*.mdlp
+
+# Archivos de caché del entorno
+.matlab/
+
+# =======================================================
+# OPCIONAL: Archivos de datos pesados (Descomenta si lo necesitas)
+# Si tu proyecto genera archivos .mat muy grandes, 
+# quita el '#' de la siguiente línea para que Git no los suba.
+# =======================================================
+# *.mat
+# *.csv
+# *.dat
