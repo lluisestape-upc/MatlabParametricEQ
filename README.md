@@ -2,7 +2,7 @@
 
 A fully interactive **5-band parametric EQ** built with MATLAB's `uifigure` GUI framework. Load a WAV file, sculpt its frequency response across five independent filter bands, and play back the processed audio — all inside a dark-themed, studio-inspired interface.
 
-<img width="1919" height="1129" alt="Screenshot 2026-03-28 173345" src="https://github.com/user-attachments/assets/fa7b633a-91e4-472e-9c06-7ce5ed80aa59" />
+<img width="1917" height="1119" alt="image" src="https://github.com/user-attachments/assets/a55fa658-7359-491b-b477-a9624b51951c" />
 
 ---
 
